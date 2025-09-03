@@ -1,11 +1,11 @@
-PythonProject/
+PythonProject/ <br>
+│<br>
+├── VoiceRecognition/<br>
+│   ├── voice_recognition.py<br>
+│   └── README.md<br>
 │
-├── VoiceRecognition/
-│   ├── voice_recognition.py
-│   └── README.md
-│
-├── RoboSpeaker/
-│   ├── robospeaker.py
-│   └── README.md
-│
-└── main_README.md   (optional overview for the whole repo)
+├── RoboSpeaker/<br>
+│   ├── robospeaker.py<br>
+│   └── README.md<br>
+│<br>
+└── main_README.md   (optional overview for the whole repo)<br>
