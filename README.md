@@ -8,4 +8,4 @@ PythonProject/ <br>
 │   ├── robospeaker.py<br>
 │   └── README.md<br>
 │<br>
-└── main_README.md   (optional overview for the whole repo)<br>
+└── 
