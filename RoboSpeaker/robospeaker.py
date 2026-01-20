@@ -2,13 +2,13 @@ from gtts import gTTS
 from playsound import playsound
 import os
 
-print("Welcome to RoboSpeaker (Created by Alisa ❤)")
+print("Welcome to RoboSpeaker (Created by Alisa)")
 
 while True:
     x = input("Enter what you want me to speak (or 'q' to quit): ")
 
     if x.lower() == "q":
-        tts = gTTS("Bye bye friends", lang='en')
+        tts = gTTS("Bye bye", lang='en')
         tts.save("bye.mp3")
         playsound("bye.mp3")
         os.remove("bye.mp3")
