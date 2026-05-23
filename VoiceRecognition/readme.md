@@ -1,4 +1,4 @@
-# Voice Recognition System 🎤
+# Voice Recognition System 
 
 ## Description
 A Python-based tool that listens to voice commands using the speech_recognition library and converts them into text. The recognized text is also saved into a file (output.txt).
